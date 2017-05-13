@@ -18,13 +18,15 @@ An implementation of the Viginere Cipher, providing utility methods to `encrypt`
 
   var ciphertext = viggy.encrypt(key, plaintext);
 
+  var decodedCiphertext = viggy.decrypt(key, ciphertext);
+
 ```
 
 ## Tests
 
-```shell
-   npm test
-```
+Currently no testing framework in place
+
+
 
 ## Contributing
 
