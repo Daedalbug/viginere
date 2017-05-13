@@ -1,0 +1,25 @@
+{
+  "name": "viginere",
+  "version": "1.0.0",
+  "description": "An implementation of the Viginere Cipher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daedalbug/viginere.git"
+  },
+  "keywords": [
+    "viginere",
+    "cipher",
+    "cryptography",
+    "crypto"
+  ],
+  "author": "Daedalbug",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Daedalbug/viginere/issues"
+  },
+  "homepage": "https://github.com/Daedalbug/viginere#readme"
+}
